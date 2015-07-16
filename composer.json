@@ -1,0 +1,21 @@
+{
+  "name": "oligriffiths/nooku-object-config",
+  "description": "Nooku Object Config",
+  "keywords": ["nooku", "object config"],
+  "type": "library",
+  "homepage": "https://github.com/nooku/nooku-platform",
+  "license": "Apache2",
+  "authors": [
+    {
+      "name": "Nooku",
+      "homepage": "https://github.com/nooku"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "oligriffiths/nooku-class-loader": "0.0.1"
+  },
+  "autoload": {
+    "files": ["autoload.php"]
+  }
+}
